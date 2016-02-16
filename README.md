@@ -1,1 +1,1 @@
-Yet another barley-break game, pure JS
+Yet another Barley-Break game, pure JS
